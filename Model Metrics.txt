@@ -1,0 +1,5 @@
+AUC Score for XGBoost Classifier is: 0.952601293161886
+F1 Score for XGBoost Classifier is: 0.9493808670316809
+Recall score for XGBoost Classifier is: 0.9085511991102617
+Precision score for XGBoost Classifier is: 0.9940529238362926
+Accuracy score for XGBoost Classifier is: 0.9630666889600152
